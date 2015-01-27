@@ -1,0 +1,10 @@
+Package: com.satori.killswitcher
+Name: KillSwitcher
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Adds a button to the App Switcher to kill all running apps at once
+Maintainer: Satori
+Author: Satori
+Section: Tweaks
+Version: 1.0
+
